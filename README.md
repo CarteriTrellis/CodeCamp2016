@@ -1,6 +1,6 @@
 # Seattle Code Camp 2016
 
-There are no slides for my "Rider: Adventures in Cross-Platform Development" because that was terrible. My sincere apologies for the folks who attended, and my thanks for those who participated in the discussion about their current experiences with and the future of .NET cross-platform development.
+There are no slides for my "Rider: Adventures in Cross-Platform Development" because it was a terrible talk. My sincere apologies for the folks who attended, and my thanks for those who participated in the discussion about their current experiences with and the future of .NET cross-platform development.
 
 There are, however, slides for "A Year of Robots: Teens, Tech, and Transformations"
 
@@ -12,4 +12,4 @@ There are, however, slides for "A Year of Robots: Teens, Tech, and Transformatio
 >Come hear how lofty goals collided with reality, how I learned more about robots than I ever intended to, and how, in general, I learned far more from these young adults than I could ever hope to impart to them.
 
 # NOTE:
-I've also included a list of the videos that I intended to use during the presentation. I would up showing about half of them, but I thought I'd include the entire list as there's some additional fun stuff to see there.
+I've also included a list of the videos that I intended to use during the presentation. I wound up showing about half of them, but I thought I'd include the entire list as there's some additional fun stuff to see there.
